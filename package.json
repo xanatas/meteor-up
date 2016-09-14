@@ -1,6 +1,6 @@
 {
   "name": "mupv-xanatas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Production Quality Meteor Deployments - OLD VERSION",
   "dependencies": {
     "async": "^0.9.0",
@@ -13,7 +13,7 @@
     "archiver": "0.14.x"
   },
   "bin": {
-    "mup": "./bin/mupv"
+    "mupv": "./bin/mupv"
   },
   "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
   "repository": {
